@@ -16,4 +16,3 @@ Building CVT
         $ cd build
         $ cmake ..
         $ make && make install
-        
